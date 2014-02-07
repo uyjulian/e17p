@@ -1,0 +1,3 @@
+LIBRARY _rle.pyd
+EXPORTS
+PyInit__rle

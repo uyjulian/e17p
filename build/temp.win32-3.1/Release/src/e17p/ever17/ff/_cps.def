@@ -1,0 +1,3 @@
+LIBRARY _cps.pyd
+EXPORTS
+PyInit__cps

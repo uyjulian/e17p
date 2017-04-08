@@ -1,3 +1,0 @@
-LIBRARY _effects.pyd
-EXPORTS
-PyInit__effects
